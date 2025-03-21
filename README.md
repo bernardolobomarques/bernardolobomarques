@@ -3,7 +3,7 @@
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=pt-BR#sent?compose=GTvVlcSHwQkDWBXqbspnwBfxJFWBFwsCCcTBGVjWrwLMGJWnmbGDwPxNMXXWBxNLLgCbzPNVCntTh)    [![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5AUFPvFrES)   [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gl.dias/)   [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dias-838326241)
 
 
-[![graph](https://github-readme-stats.vercel.app/api?username=gl-dias&show_icons=true&theme=dark)](https://github.com/gl-dias/github-readme-stats)
+[![graph](https://github-readme-stats.vercel.app/api?username=bernardolobomarques&show_icons=true&theme=dark)](https://github.com/bernardolobomarques/github-readme-stats)
 
 ### Technologies💻:
 
@@ -19,4 +19,4 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gl-dias&theme=dark)](https://github.com/gl-dias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolobomarques&theme=dark)](https://github.com/bernardolobomarques/github-readme-stats)
